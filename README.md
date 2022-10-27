@@ -18,3 +18,13 @@ En este proyecto se analiza los archivos, se cambia el formato, se limpia y orde
 <img width="613" alt="diagrama_de_flujo" src="https://user-images.githubusercontent.com/105827215/198372532-0f5212a3-a2ed-49bb-9db3-522b8e476740.png">
 
 En este diagrama se muestra el flujo de trabajo que se tomó para este proyecto. Se muestra desde lo más obvio a lo más importante porque es muy necesario abarcar y reportar todo. `No importa que tanto uno cree que sabe, siempre está la posibilidad de que lo más minimo se nos pase`.
+
+## Video explicativo del proyecto
+
+https://www.youtube.com/watch?v=-jOQH-hUPYY&t=8s
+
+
+
+
+
+Gracias por leer.
