@@ -3,7 +3,7 @@
 
 ## Mi trabajo 
 
-En este proyecto se analizan los archivos, se cambia el formato, se limpia y ordena, se crea una Base de Datos en MySQL, en la cual se ingestan los archivos trabajados previamente. También se crean funciones relacionadas con las Base de Datos de Mysql, una de estas funciones ingesta archivos .csv desde Python a MySQL para crear una tabla en la Base de Datos. Otra de las funciones unifica todos los archivos de precios para poder realizar la consulta pedida:
+En este proyecto se analizan los archivos, se cambia el formato, se realiza un proceso de ETL, se crea una Base de Datos en MySQL, en la cual se ingestan los archivos trabajados previamente. También se crean funciones relacionadas con la Base de Datos de Mysql, una de estas funciones ingesta archivos .csv desde Python a MySQL para crear una tabla en la Base de Datos. Otra de las funciones unifica todos los archivos de precios para poder realizar la consulta pedida:
 
 - Query = Precio promedio de la sucursal '9-1-688'
 - Resultado = 203.8
